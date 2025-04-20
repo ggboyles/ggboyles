@@ -4,7 +4,7 @@
 
 - 💻 Pursuing **Computer Science** at **Southern Illinois University Edwardsville**
 - 🌱 Learning about **Operating Systems** and **Game Development**
-- 🔭 Currently working on my **Portfolio Website**
+- 🔭 Currently working on [**Flow Lines**](https://github.com/ggboyles/FlowLines)
 - 🛠️ I often use: `.c`, `.cpp`, `.py`
 
 [Let's connect on LinkedIn!](https://www.linkedin.com/in/gavin-boyles)
