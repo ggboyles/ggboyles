@@ -3,7 +3,7 @@
 ### CS Student & Aspiring Developer
 
 - 💻 Pursuing **Computer Science** at **Southern Illinois University Edwardsville**
-- 🌱 Learning about **Operating Systems** and **Game Development**
+- 🌱 Learning about **Data Structures and Algorithms**
 - 🔭 Currently working on [**Flow Lines**](https://github.com/ggboyles/FlowLines)
 - 🛠️ I often use: `.c`, `.cs`, `.py`
 
